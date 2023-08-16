@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2 align="center">CODSOFT Tasks</h2>
+  <h2 align="center">CODSOFT Task 1</h2>
 
   A responsive landing page,personal portfolio website and calculator
   <br />Responsive for all devices, build using HTML, CSS.
