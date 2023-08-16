@@ -4,5 +4,5 @@
 
   A responsive landing page
   <br />Responsive for all devices, build using HTML, CSS.
-   <h3>Landing Page : <a href="https://resp-landing-page.netlify.app/"><strong>➥ Live Demo</strong></a></h3>
+   <h3><a href="https://resp-landing-page.netlify.app/"><strong>➥ Live Demo</strong></a></h3>
 </div>
